@@ -9,13 +9,14 @@
 ---
 
 ## 🚀 About Me
-I'm a dedicated Software Engineering student focused on building strong fundamentals in programming, problem-solving, and system design. I enjoy writing clean, efficient code and improving a little every day. I’m actively building projects, contributing to my GitHub portfolio, and preparing for future software engineering internships.
+I am a Software Engineering student building strong fundamentals in programming, problem-solving, and software development. I’m currently expanding my experience through hands-on C++ projects, learning industry tools, and preparing for upcoming software engineering internship opportunities. My goal is to continue improving my technical abilities while contributing to real-world projects in a professional setting.
+
 
 ---
 
 ## 💻 Technical Skills
 **Languages:**  
-- C++ • Python
+- C++ 
 
 **Tools & Technologies:**  
 - Git & GitHub  
@@ -27,16 +28,18 @@ I'm a dedicated Software Engineering student focused on building strong fundamen
 ---
 
 ## 📂 Projects
-- **Payroll System (C++/OOP)** – A full object-oriented payroll management system with employee classes, inheritance, and salary calculations.  
-- **More Projects Coming Soon…**
+- **Payroll Management System (C++ | OOP)** – A full object-oriented payroll system with employee classes, inheritance, salary calculations, and structured data handling.  
+- **Student Record System (C++)** – A command-line system for managing student profiles, academic data, and record lookups.  
+- **GPA Calculator (Python)** – A simple tool for computing weighted and unweighted GPAs with input validation and clean file handling.  
+- **Soccer Stats Tracker (Python)** – A statistics tracker designed to record goals, assists, minutes played, and generate performance summaries.
 
 
 ---
 
 ## 📫 Contact Me
 - **Email:** angelodiazm10@gmail.com  
-- **LinkedIn:** linkedin.com/in/angelodiazz  
-- **GitHub:** (https://github.com/angelodiazz)
+- **LinkedIn:** www.linkedin.com/in/angelodiazz  
+- **GitHub:** https://github.com/angelodiazz
 
 ---
 
