@@ -28,10 +28,17 @@ I am a Software Engineering student building strong fundamentals in programming,
 ---
 
 ## 📂 Projects
-- **Payroll Management System (C++ | OOP)** – A full object-oriented payroll system with employee classes, inheritance, salary calculations, and structured data handling.  
-- **Student Record System (C++)** – A command-line system for managing student profiles, academic data, and record lookups.  
-- **GPA Calculator (Python)** – A simple tool for computing weighted and unweighted GPAs with input validation and clean file handling.  
-- **Soccer Stats Tracker (Python)** – A statistics tracker designed to record goals, assists, minutes played, and generate performance summaries.
+- [**Payroll Management System (C++ | OOP)**](https://github.com/angelogdiazz/payroll-management-system)  
+  A full object-oriented payroll system with employee classes, inheritance, salary calculations, and structured data handling.
+
+- [**Student Record System (C++)**](https://github.com/angelogdiazz/student-record-system)  
+  A command-line system for managing student profiles, academic data, and record lookups.
+
+- [**GPA Calculator (Python)**](https://github.com/angelogdiazz/gpa-calculator)  
+  A Python tool for computing weighted and unweighted GPAs with input validation and clean file handling.
+
+- [**Soccer Stats Tracker (Python)**](https://github.com/angelogdiazz/soccer-stats-tracker)  
+  A statistics tracker designed to record goals, assists, minutes played, and generate performance summaries.
 
 
 ---
