@@ -28,7 +28,7 @@ I am a Software Engineering student building strong fundamentals in programming,
 ---
 
 ## 📂 Projects
-- [**Payroll Management System (C++ | OOP)**](https://github.com/angelogdiazz/payroll-management-system)  
+- [**Payroll Management System (C++ | OOP)**](https://github.com/angelodiazz/payroll-management-system)  
   A full object-oriented payroll system with employee classes, inheritance, salary calculations, and structured data handling.
 
 - [**Student Record System (C++)**](https://github.com/angelogdiazz/student-record-system)  
