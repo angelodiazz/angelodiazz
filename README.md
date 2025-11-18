@@ -27,25 +27,17 @@ I'm a dedicated Software Engineering student focused on building strong fundamen
 ---
 
 ## 📂 Projects
-(To be updated as you upload code — add your repos here)
 - **Payroll System (C++/OOP)** – A full object-oriented payroll management system with employee classes, inheritance, and salary calculations.  
 - **More Projects Coming Soon…**
 
----
-
-## 🎯 Currently Working On
-- Building a clean GitHub portfolio with real C++ and Python projects  
-- Strengthening DSA foundations  
-- Improving OOP, memory management, and debugging skills  
-- Preparing for 2025–2026 internship applications
 
 ---
 
 ## 📫 Contact Me
-- **Email:** YOUR_EMAIL  
-- **LinkedIn:** YOUR_LINKEDIN  
-- **GitHub:** [github.com/AngeloDiaz](https://github.com/YOUR_USERNAME)
+- **Email:** angelodiazm10@gmail.com  
+- **LinkedIn:** linkedin.com/in/angelodiazz  
+- **GitHub:** (https://github.com/angelodiazz)
 
 ---
 
-<p align="center">🔹 Always learning. Always improving. 🔹</p>
+<p align="center">🔹 Always learning. Always working hard. 🔹</p>
