@@ -35,7 +35,7 @@ I am a Software Engineering student building strong fundamentals in programming,
   A command-line system for managing student profiles, academic data, and record lookups.
 
 - [**GPA Calculator (C++)**](https://github.com/angelogdiazz/gpa-calculator)  
-  A Python tool for computing weighted and unweighted GPAs with input validation and clean file handling.
+  A C++ tool for computing weighted and unweighted GPAs with input validation and clean file handling.
 
 - [**Soccer Stats Tracker (C++)**](https://github.com/angelogdiazz/soccer-stats-tracker)  
   A statistics tracker designed to record goals, assists, minutes played, and generate performance summaries.
