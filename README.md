@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Angelo Diaz</h1>
-<h3 align="center">Software Engineer Student | C++ & Python</h3>
+<h3 align="center">Software Engineer Student | C++</h3>
 
 ---
 
