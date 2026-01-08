@@ -50,4 +50,3 @@ I am a Software Engineering student building strong fundamentals in programming,
 
 ---
 
-<p align="center">🔹 Always learning. Always working hard. 🔹</p>
