@@ -4,8 +4,8 @@
 
 <h1 align="center">Angelo Diaz</h1>
 <p align="center">
-  <strong>Software Engineering Student @ Florida Gulf Coast University</strong><br>
-  Focused on C++ Systems Development | Pursuing Summer 2026 Internships
+  <strong>Software Engineering @ Florida Gulf Coast University (Class of 2028)</strong><br>
+  Aspiring Software Engineer | Focused on Scalable Systems & Secure Development
 </p>
 
 <p align="center">
@@ -15,41 +15,49 @@
 
 ---
 
-## 🚀 About Me
-I am a Software Engineering major at FGCU with a strong foundation in **C++ and Object-Oriented Programming**. I specialize in building functional desktop applications and command-line tools from the ground up, including manual **CMake** configuration and **Qt-based** GUI design. 
+## 🚀 Professional Summary
+I am a Software Engineering student at FGCU dedicated to building robust, high-performance software through **Object-Oriented Design** and **Systems-Level Programming**. I specialize in creating modular C++ applications with an emphasis on data integrity and secure architecture. Currently, I am advancing my expertise in **Data Structures & Algorithms (DSA)** and **Computer Security** to mitigate vulnerabilities and optimize system performance. I am actively seeking **Summer 2026 Software Engineering Internship** opportunities.
 
 ---
 
 ## 💻 Technical Stack
-* **Languages:** C++ (Core Focus), Python
-* **Frameworks:** Qt (GUI Development)
-* **Tools:** Git, GitHub, CMake (Manual Configuration), CLion, VS Code
-* **Current Coursework:** Data Structures & Algorithms (Spring 2026)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++ (Core), Python, HTML/CSS |
+| **Frameworks** | Qt 6 (GUI Development) |
+| **Build Systems** | CMake (Manual Configuration), Make |
+| **Security & Logic** | Input Sanitization, Memory Management, DSA |
+| **Tools** | Git, GitHub, CLion, VS Code |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Technical Projects
 
 ### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
-* Developed a full **OOP-based system** utilizing inheritance and structured data handling.
-* Manually configured the build system using **CMake**.
+* **System Architecture:** Engineered a modular payroll solution integrating a **Qt 6 GUI** with a robust C++ backend.
+* **Advanced OOP:** Implemented a comprehensive **class hierarchy** utilizing inheritance and polymorphism to manage diverse employee data and salary logic.
+* **Reliability:** Integrated **exception-based error handling** to ensure system stability during complex financial calculations.
 
 ### [Soccer Stats Tracker](https://github.com/angelodiazz/soccer-stats-tracker)
-* Implemented a performance tracker using **C++ STL containers** for data management.
-* Designed for real-time summary generation and player performance metrics.
+* **Data Analytics:** Developed a performance tracking engine using **C++17** to compute real-time match metrics and team-level analytics.
+* **Design Patterns:** Utilized a **modular object-oriented design** with a clear separation of concerns between data models, tracking logic, and CSV utilities.
+* **Persistence:** Authored custom CSV file-handling utilities to ensure **data integrity and persistence** across user sessions.
 
 ### [Student Record System](https://github.com/angelodiazz/student-record-system)
-* Built a secure command-line interface for managing academic data and profile lookups.
+* **Database Logic:** Built a CRUD-based management system featuring optimized search and retrieval logic for academic profiles.
+* **Defensive Programming:** Implemented centralized **input validation** and defensive coding protocols to maintain data integrity and prevent duplicate or invalid entries.
+* **Build Engineering:** Manually configured the project structure and build lifecycle using **CMake** for cross-platform compatibility.
 
 ---
 
 ## 📈 2026 Growth Roadmap
-* **Data Structures:** Actively implementing fundamental structures (Linked Lists, Trees, Graphs) as part of my Spring '26 DSA curriculum.
-* **Security:** Transitioning toward secure coding practices, focusing on input validation and memory safety.
-* **Open Source:** Aiming to contribute to C++ repositories to improve collaborative development skills.
+* **Data Structures:** Implementing fundamental structures (Linked Lists, Trees, Graphs) as part of my Spring '26 DSA curriculum.
+* **Computer Security:** Actively applying security principles to C++ development, focusing on **input sanitization**, **buffer overflow mitigation**, and **secure memory management**.
+* **Open Source:** Identifying C++ based projects (Qt/System tools) to contribute to professional-grade codebases.
 
 ---
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/angelodiazz](https://www.linkedin.com/in/angelodiazz)
 - **Email:** angelodiazm10@gmail.com
+- **Location:** Naples, FL
