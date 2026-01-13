@@ -1,52 +1,55 @@
-<!-- Profile Picture -->
 <p align="center">
   <img src="https://github.com/angelodiazz/angelodiazz/blob/main/profile.jpg?raw=true" alt="Profile Photo" width="150" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Hi, I'm Angelo Diaz</h1>
-<h3 align="center">Software Engineer Student | C++</h3>
+<h1 align="center">Angelo Diaz</h1>
+<p align="center">
+  <strong>Software Engineering Student @ Florida Gulf Coast University</strong><br>
+  Focused on C++ Systems Development | Pursuing Summer 2026 Internships
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelodiazz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:angelodiazm10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a Software Engineering student building strong fundamentals in programming, problem-solving, and software development. I’m currently expanding my experience through hands-on C++ projects, learning industry tools, and preparing for upcoming software engineering internship opportunities. My goal is to continue improving my technical abilities while contributing to real-world projects in a professional setting.
-
-
----
-
-## 💻 Technical Skills
-**Languages:**  
-- C++ 
-
-**Tools & Technologies:**  
-- Git & GitHub  
-- Qt  
-- CMake  
-- VS Code  
-- CLion  
+I am a Software Engineering major at FGCU with a strong foundation in **C++ and Object-Oriented Programming**. I specialize in building functional desktop applications and command-line tools from the ground up, including manual **CMake** configuration and **Qt-based** GUI design. 
 
 ---
 
-## 📂 Projects
-- [**Payroll Management System (C++ | OOP)**](https://github.com/angelodiazz/payroll-management-system)  
-  A full object-oriented payroll system with employee classes, inheritance, salary calculations, and structured data handling.
-
-- [**Student Record System (C++)**](https://github.com/angelodiazz/student-record-system)  
-  A command-line system for managing student profiles, academic data, and record lookups.
-
-- [**GPA Calculator (C++)**](https://github.com/angelodiazz/gpa-calculator)  
-  A C++ tool for computing weighted and unweighted GPAs with input validation and clean file handling.
-
-- [**Soccer Stats Tracker (C++)**](https://github.com/angelodiazz/soccer-stats-tracker)  
-  A statistics tracker designed to record goals, assists, minutes played, and generate performance summaries.
-
+## 💻 Technical Stack
+* **Languages:** C++ (Core Focus), Python
+* **Frameworks:** Qt (GUI Development)
+* **Tools:** Git, GitHub, CMake (Manual Configuration), CLion, VS Code
+* **Current Coursework:** Data Structures & Algorithms (Spring 2026)
 
 ---
 
-## 📫 Contact Me
-- **Email:** angelodiazm10@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/angelodiazz  
-- **GitHub:** https://github.com/angelodiazz
+## 📂 Featured Projects
+
+### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
+* Developed a full **OOP-based system** utilizing inheritance and structured data handling.
+* Manually configured the build system using **CMake**.
+
+### [Soccer Stats Tracker](https://github.com/angelodiazz/soccer-stats-tracker)
+* Implemented a performance tracker using **C++ STL containers** for data management.
+* Designed for real-time summary generation and player performance metrics.
+
+### [Student Record System](https://github.com/angelodiazz/student-record-system)
+* Built a secure command-line interface for managing academic data and profile lookups.
 
 ---
 
+## 📈 2026 Growth Roadmap
+* **Data Structures:** Actively implementing fundamental structures (Linked Lists, Trees, Graphs) as part of my Spring '26 DSA curriculum.
+* **Security:** Transitioning toward secure coding practices, focusing on input validation and memory safety.
+* **Open Source:** Aiming to contribute to C++ repositories to improve collaborative development skills.
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/angelodiazz](https://www.linkedin.com/in/angelodiazz)
+- **Email:** angelodiazm10@gmail.com
