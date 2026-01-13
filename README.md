@@ -23,10 +23,9 @@ I am a Software Engineering student at FGCU dedicated to building robust, high-p
 ## 💻 Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++ (Core), Python, HTML/CSS |
+| **Languages** | C++ (Core), Python |
 | **Frameworks** | Qt 6 (GUI Development) |
 | **Build Systems** | CMake (Manual Configuration), Make |
-| **Security & Logic** | Input Sanitization, Memory Management, DSA |
 | **Tools** | Git, GitHub, CLion, VS Code |
 
 ---
