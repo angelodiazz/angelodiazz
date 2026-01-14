@@ -23,8 +23,8 @@ I am a Software Engineering student at FGCU dedicated to building robust, high-p
 ## 💻 Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++ (Core), Python |
-| **Frameworks** | Qt 6 (GUI Development) |
+| **Languages** | C++17 (Core), Python |
+| **Frameworks** | Qt 6 (GUI Development), STL |
 | **Build Systems** | CMake (Manual Configuration), Make |
 | **Tools** | Git, GitHub, CLion, VS Code |
 
@@ -33,19 +33,19 @@ I am a Software Engineering student at FGCU dedicated to building robust, high-p
 ## 📂 Featured Technical Projects
 
 ### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
-* **System Architecture:** Engineered a modular payroll solution integrating a **Qt 6 GUI** with a robust C++ backend.
-* **Advanced OOP:** Implemented a comprehensive **class hierarchy** utilizing inheritance and polymorphism to manage diverse employee data and salary logic.
-* **Reliability:** Integrated **exception-based error handling** to ensure system stability during complex financial calculations.
+* **Dual-Head Architecture:** Architected a modular engine where a single C++ backend powers both a **Qt 6 GUI** and a **Console CLI** without code duplication.
+* **Polymorphic Logic:** Designed a scalable class hierarchy utilizing **pure virtual functions** and multiple inheritance to enforce contract compliance across employee types.
+* **Functional Integration:** Implemented generic `total<Func>` templates using **Lambda expressions** for dynamic runtime aggregations.
 
 ### [Soccer Stats Tracker](https://github.com/angelodiazz/soccer-stats-tracker)
-* **Data Analytics:** Developed a performance tracking engine using **C++17** to compute real-time match metrics and team-level analytics.
-* **Design Patterns:** Utilized a **modular object-oriented design** with a clear separation of concerns between data models, tracking logic, and CSV utilities.
-* **Persistence:** Authored custom CSV file-handling utilities to ensure **data integrity and persistence** across user sessions.
+* **Custom Serialization:** Engineered a manual CSV parser with **quoted-string escaping** and literal double-quote handling to ensure data integrity without external libraries.
+* **Analytics Engine:** Utilized **STL Containers** and floating-point arithmetic to compute real-time match metrics and team-level aggregation.
+* **Defensive Design:** Leveraged **const-correctness** and `std::move` semantics to ensure memory safety and efficient string handling.
 
 ### [Student Record System](https://github.com/angelodiazz/student-record-system)
-* **Database Logic:** Built a CRUD-based management system featuring optimized search and retrieval logic for academic profiles.
-* **Defensive Programming:** Implemented centralized **input validation** and defensive coding protocols to maintain data integrity and prevent duplicate or invalid entries.
-* **Build Engineering:** Manually configured the project structure and build lifecycle using **CMake** for cross-platform compatibility.
+* **Persistent CRUD Engine:** Built a complete lifecycle management system capable of Creating, Reading, Updating, and Deleting records with **O(1) ID-based lookup**.
+* **System-Level I/O:** Utilized `std::filesystem` and robust `fstream` logic to manage directory structures and ensure safe data persistence.
+* **Input Sanitization:** Implemented a centralized validation namespace to enforce strict type checking and prevent runtime exceptions on invalid input.
 
 ---
 
