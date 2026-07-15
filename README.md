@@ -37,6 +37,8 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 
 ## 📂 Featured Technical Projects
 
+
+
 ### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
 * **Dual-Head Architecture:** Architected a modular engine where a single C++ backend powers both a **Qt 6 GUI** and a **Console CLI** without code duplication.
 * **Polymorphic Logic:** Designed a scalable class hierarchy utilizing **pure virtual functions** and multiple inheritance to enforce contract compliance across employee types.
@@ -46,11 +48,6 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 * **Custom Serialization:** Engineered a manual CSV parser with **quoted-string escaping** and literal double-quote handling to ensure data integrity without external libraries.
 * **Analytics Engine:** Utilized **STL Containers** and floating-point arithmetic to compute real-time match metrics and team-level aggregation.
 * **Defensive Design:** Leveraged **const-correctness** and `std::move` semantics to ensure memory safety and efficient string handling.
-
-### [Student Record System](https://github.com/angelodiazz/student-record-system)
-* **Persistent CRUD Engine:** Built a complete lifecycle management system capable of Creating, Reading, Updating, and Deleting records with **O(1) ID-based lookup**.
-* **System-Level I/O:** Utilized `std::filesystem` and robust `fstream` logic to manage directory structures and ensure safe data persistence.
-* **Input Sanitization:** Implemented a centralized validation namespace to enforce strict type checking and prevent runtime exceptions on invalid input.
 
 ---
 
