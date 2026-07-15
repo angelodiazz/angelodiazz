@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/angelodiazz/angelodiazz/blob/main/profile.jpg?raw=true" alt="Profile Photo" width="150" style="border-radius: 50%;">
+  <img src="[https://github.com/angelodiazz/angelodiazz/blob/main/profile.jpg?raw=true](https://github.com/angelodiazz/angelodiazz/blob/00d0b52f2a6cb5f2be6c6f52f70ef785a0986206/PFP.jpg)" alt="Profile Photo" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Angelo Diaz</h1>
