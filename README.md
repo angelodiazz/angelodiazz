@@ -5,7 +5,7 @@
 <h1 align="center">Angelo Diaz</h1>
 <p align="center">
   <strong>Software Engineering @ Florida Gulf Coast University (Class of 2028)</strong><br>
-  Aspiring Software Engineer | Focused on Scalable Systems & Secure Development
+  Software Engineer | Focused on Low-Latency Systems, Custom Memory Management, & Secure Architectures
 </p>
 
 <p align="center">
@@ -16,8 +16,7 @@
 ---
 
 ## 🚀 Professional Summary
-I am a Software Engineering student at FGCU dedicated to building robust, high-performance software through **Object-Oriented Design** and **Systems-Level Programming**. I specialize in creating modular C++ applications with an emphasis on data integrity and secure architecture. Currently, I am advancing my expertise in **Data Structures & Algorithms (DSA)** and **Computer Security** to mitigate vulnerabilities and optimize system performance.
-
+I am a Software Engineering student at FGCU specializing in low-latency systems development, custom memory management, and deterministic performance. My technical focus centers on bypassing high-overhead runtime operations, exploiting hardware cache structures, and implementing secure, robust data pipelines.
 ---
 
 ## 💻 Technical Stack
@@ -26,9 +25,12 @@ I am a Software Engineering student at FGCU dedicated to building robust, high-p
 | **Languages** | C++17 (Core), Python |
 | **Frameworks** | Qt 6 (GUI Development), STL |
 | **Build Systems** | CMake (Manual Configuration), Make |
-| **Tools** | Git, GitHub, CLion, VS Code |
+| **Tools** | Linux VM Shell, GCC/Clang, Valgrind, GDB, Git, Cursor, VS Code, Clion |
 
 ---
+
+## NeetCode Solutions
+### [NeetCode Submissions](https://github.com/angelodiazz/neetcode-submissions)
 
 ## 📂 Featured Technical Projects
 
@@ -49,10 +51,13 @@ I am a Software Engineering student at FGCU dedicated to building robust, high-p
 
 ---
 
-## 📈 2026 Growth Roadmap
+## 📈 Growth Roadmap
 * **Data Structures:** Implementing fundamental structures (Linked Lists, Trees, Graphs) as part of my Spring '26 DSA curriculum.
 * **Computer Security:** Actively applying security principles to C++ development, focusing on **input sanitization**, **buffer overflow mitigation**, and **secure memory management**.
 * **Open Source:** Identifying C++ based projects (Qt/System tools) to contribute to professional-grade codebases.
+* **Systems Architecture (Summer 2026):** Designing multi-threaded concurrency models, memory arena allocators, and local domain socket inter-process communication (IPC) for backend integrations.
+* **Algorithmic Mastery:** Resolving and cataloging fundamental and advanced structures, with an emphasis on replacing dynamic heap sequences with stack-allocated sequential elements.
+* **Academic Preparation (Fall 2026):** Building preliminary foundations for upcoming Operating Systems and Systems-Level coursework by studying boundary defense, thread scheduling, and kernel interfaces.
 
 ---
 
