@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PFP.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
+  <img src="PFP.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 </p>
 
 <h1 align="center">Angelo Diaz</h1>
