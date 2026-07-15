@@ -26,7 +26,7 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 ## 💻 Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++17 (Core), Python |
+| **Languages** | C++ (Core), Python |
 | **Frameworks** | Qt 6 (GUI Development), STL |
 | **Build Systems** | CMake (Manual Configuration), Make |
 | **Tools** | Linux VM Shell, GCC/Clang, Valgrind, GDB, Git, Cursor, VS Code, CLion |
@@ -42,7 +42,7 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 ## 📂 Featured Technical Projects
 
 ### [Hydra-Quant Platform](https://github.com/angelodiazz/hydra-quant) *(In Progress)*
-* **Project Goal:** Architect a complete, microsecond-latency algorithmic execution platform from scratch in C++. The objective is to achieve optimal execution speed and deterministic latency through strict hardware optimization, custom allocation strategies (RAII memory pools), lock-free sequential data structures, and multi-threaded inter-process communication (IPC)—completely bypassing standard runtime heap allocations and operating system interrupts.
+* **Project Goal:** Architect a complete, microsecond-latency algorithmic execution platform from scratch. The objective is to achieve optimal execution speed and deterministic latency through strict hardware optimization, custom allocation strategies (RAII memory pools), lock-free sequential data structures, and multi-threaded inter-process communication (IPC)—completely bypassing standard runtime heap allocations and operating system interrupts.
 
 ### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
 * **Dual-Head Architecture:** Architected a modular engine where a single C++ backend powers both a **Qt 6 GUI** and a **Console CLI** without code duplication.
@@ -58,8 +58,8 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 
 ## 📈 Growth Roadmap
 * **Data Structures:** Implementing fundamental structures (Linked Lists, Trees, Graphs) as part of my Spring '26 DSA curriculum.
-* **Computer Security:** Actively applying security principles to C++ development, focusing on **input sanitization**, **buffer overflow mitigation**, and **secure memory management**.
-* **Open Source:** Identifying C++ based projects (Qt/System tools) to contribute to professional-grade codebases.
+* **Computer Security:** Actively applying security principles to development, focusing on **input sanitization**, **buffer overflow mitigation**, and **secure memory management**.
+* **Open Source:** Identifying projects (Qt/System tools) to contribute to professional-grade codebases.
 * **Systems Architecture (Summer 2026):** Designing multi-threaded concurrency models, memory arena allocators, and local domain socket inter-process communication (IPC) for backend integrations.
 * **Algorithmic Mastery:** Resolving and cataloging fundamental and advanced structures, with an emphasis on replacing dynamic heap sequences with stack-allocated sequential elements.
 * **Academic Preparation (Fall 2026):** Building preliminary foundations for upcoming Operating Systems and Systems-Level coursework by studying boundary defense, thread scheduling, and kernel interfaces.
