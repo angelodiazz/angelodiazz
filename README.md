@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Professional Summary
-I am a Software Engineering student at FGCU dedicated to building robust, high-performance software through **Object-Oriented Design** and **Systems-Level Programming**. I specialize in creating modular C++ applications with an emphasis on data integrity and secure architecture. Currently, I am advancing my expertise in **Data Structures & Algorithms (DSA)** and **Computer Security** to mitigate vulnerabilities and optimize system performance. I am actively seeking **Summer 2026 Software Engineering Internship** opportunities.
+I am a Software Engineering student at FGCU dedicated to building robust, high-performance software through **Object-Oriented Design** and **Systems-Level Programming**. I specialize in creating modular C++ applications with an emphasis on data integrity and secure architecture. Currently, I am advancing my expertise in **Data Structures & Algorithms (DSA)** and **Computer Security** to mitigate vulnerabilities and optimize system performance.
 
 ---
 
