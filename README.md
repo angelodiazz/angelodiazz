@@ -16,6 +16,7 @@
 ---
 
 ## 🚀 Professional Summary
+
 I am a Software Engineering student at FGCU specializing in low-latency systems development, custom memory management, and deterministic performance. My technical focus centers on bypassing high-overhead runtime operations, exploiting hardware cache structures, and implementing secure, robust data pipelines.
 ---
 
@@ -31,6 +32,8 @@ I am a Software Engineering student at FGCU specializing in low-latency systems 
 
 ## NeetCode Solutions
 ### [NeetCode Submissions](https://github.com/angelodiazz/neetcode-submissions)
+
+---
 
 ## 📂 Featured Technical Projects
 
