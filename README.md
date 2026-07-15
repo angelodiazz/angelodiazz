@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="PFP.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">Angelo Diaz</h1>
 <p align="center">
   <strong>Software Engineering @ Florida Gulf Coast University (Class of 2028)</strong><br>
