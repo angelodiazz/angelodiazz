@@ -53,7 +53,7 @@ Market-data ingestion, deterministic replay, risk controls, execution simulation
 
 ### [Payroll Management System](https://github.com/angelodiazz/payroll-management-system)
 
-A C++17 payroll application with a shared backend used by a Qt 6 graphical interface and a console interface.
+A C++17 payroll application with Qt 6 and console interfaces built around the same employee and payroll design.
 
 Implemented concepts include:
 
@@ -94,7 +94,7 @@ Implemented features include:
 
 - Letter-grade normalization
 - Credit-weighted GPA calculations
-- Configurable course weighting
+- Weighted and unweighted GPA calculations
 - Input validation
 - CSV import and export
 
